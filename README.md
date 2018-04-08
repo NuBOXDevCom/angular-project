@@ -1,6 +1,7 @@
-# AngularProject2
+# AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+Based on Angular 5.
 
 ## Development server
 
